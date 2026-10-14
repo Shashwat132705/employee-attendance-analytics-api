@@ -1,0 +1,7 @@
+.venv/
+.venv_broken/
+.venv_old/
+__pycache__/
+*.py[cod]
+.env
+~$*
